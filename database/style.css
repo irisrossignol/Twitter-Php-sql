@@ -1,0 +1,48 @@
+body {
+    background-color: #051536;
+    color: white; 
+}
+
+.nav {
+    text-align: center;
+}
+  
+.nav ul li {
+    display: inline; 
+    margin: 0 15px; 
+}
+  
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+  
+.nav ul li a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-left: 2rem;
+}
+
+.rch {
+    justify-content: center;
+}
+
+.btn {
+    float: right; 
+    margin-right: 2rem;
+  }
+
+.twt {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 4rem;
+}
+
+
+li {
+    text-decoration: none;
+}
